@@ -8,7 +8,7 @@ window.songs = [
     duration: 129,
     url: "https://www.youtube.com/watch?v=eGuGeKksdVM",
     explicit: false,
-    imageUrl: "/src/images/download.jpeg",
+    imageUrl: "download.jpeg",
   },
   {
     songId: "SID-2",
@@ -28,7 +28,7 @@ window.songs = [
     duration: 202,
     url: "https://www.youtube.com/watch?v=dCmp56tSSmA",
     explicit: false,
-    imageUrl: "/src/images/download (1).jpeg",
+    imageUrl: "download (1).jpeg",
   },
   {
     songId: "SID-4",
@@ -38,7 +38,7 @@ window.songs = [
     duration: 150,
     url: "https://www.youtube.com/watch?v=cWMxCE2HTag",
     explicit: false,
-    imageUrl: "/src/images/download (6).jpeg",
+    imageUrl: "download (6).jpeg",
   },
   {
     songId: "SID-5",
@@ -48,7 +48,7 @@ window.songs = [
     duration: 189,
     url: "https://www.youtube.com/watch?v=6wkwmDzZ3n4",
     explicit: false,
-    imageUrl: "/src/images/download (7).jpeg",
+    imageUrl: "download (7).jpeg",
   },
   {
     songId: "SID-6",
@@ -58,7 +58,7 @@ window.songs = [
     duration: 198,
     url: "https://www.youtube.com/watch?v=k85UB5b6pJU",
     explicit: false,
-    imageUrl: "/src/images/download (8).jpeg",
+    imageUrl: "download (8).jpeg",
   },
   {
     songId: "SID-7",
@@ -68,7 +68,7 @@ window.songs = [
     duration: 150,
     url: "https://www.youtube.com/watch?v=mZQH8CPQ-wo",
     explicit: false,
-    imageUrl: "/src/images/download (13).jpeg",
+    imageUrl: "download (13).jpeg",
   },
   {
     songId: "SID-8",
@@ -78,7 +78,7 @@ window.songs = [
     duration: 120,
     url: "https://www.youtube.com/watch?v=-wFTG_f-W4c",
     explicit: false,
-    imageUrl: "/src/images/download (14).jpeg",
+    imageUrl: "download (14).jpeg",
   },
   {
     songId: "SID-9",
@@ -88,7 +88,7 @@ window.songs = [
     duration: 195,
     url: "https://www.youtube.com/watch?v=nqUN530Rgtw",
     explicit: false,
-    imageUrl: "/src/images/download (15).jpeg",
+    imageUrl: "download (15).jpeg",
   },
   {
     songId: "SID-10",
@@ -98,7 +98,7 @@ window.songs = [
     duration: 182,
     url: "https://www.youtube.com/watch?v=fyBzPE6w6-k",
     explicit: false,
-    imageUrl: "/src/images/download (2).jpeg",
+    imageUrl: "download (2).jpeg",
   },
   {
     songId: "SID-11",
@@ -108,7 +108,7 @@ window.songs = [
     duration: 203,
     url: "https://www.youtube.com/watch?v=P-DhwN87JDY",
     explicit: false,
-    imageUrl: "/src/images/download (3).jpeg",
+    imageUrl: "download (3).jpeg",
   },
   {
     songId: "SID-12",
@@ -118,7 +118,7 @@ window.songs = [
     duration: 205,
     url: "https://www.youtube.com/watch?v=cl0a3i2wFcc",
     explicit: false,
-    imageUrl: "/src/images/download (4).jpeg",
+    imageUrl: "download (4).jpeg",
   },
   {
     songId: "SID-13",
@@ -128,7 +128,7 @@ window.songs = [
     duration: 198,
     url: "https://www.youtube.com/watch?v=yF9PX9aeeQM",
     explicit: false,
-    imageUrl: "/src/images/hasshass.jpg",
+    imageUrl: "hasshass.jpg",
   },
   {
     songId: "SID-14",
@@ -138,7 +138,7 @@ window.songs = [
     duration: 198,
     url: "https://www.youtube.com/watch?v=Oqy9KfrdBOc",
     explicit: false,
-    imageUrl: "/src/images/download (9).jpeg",
+    imageUrl: "download (9).jpeg",
   },
   {
     songId: "SID-15",
@@ -148,7 +148,7 @@ window.songs = [
     duration: 131,
     url: "https://www.youtube.com/watch?v=BXNxrT59MzQ",
     explicit: false,
-    imageUrl: "/src/images/download (10).jpeg",
+    imageUrl: "download (10).jpeg",
   },
   {
     songId: "SID-16",
@@ -158,7 +158,7 @@ window.songs = [
     duration: 197,
     url: "https://www.youtube.com/watch?v=Guq9Vl8dK30",
     explicit: false,
-    imageUrl: "/src/images/download (11).jpeg",
+    imageUrl: "download (11).jpeg",
   },
   {
     songId: "SID-17",
@@ -168,7 +168,7 @@ window.songs = [
     duration: 150,
     url: "https://www.youtube.com/watch?v=CeFQO9MQNqs",
     explicit: false,
-    imageUrl: "/src/images/download (12).jpeg",
+    imageUrl: "download (12).jpeg",
   },
   {
     songId: "SID-18",
@@ -178,7 +178,7 @@ window.songs = [
     duration: 211,
     url: "https://www.youtube.com/watch?v=p2EdDiiVHh4",
     explicit: false,
-    imageUrl: "/src/images/download (16).jpeg",
+    imageUrl: "download (16).jpeg",
   },
   {
     songId: "SID-19",
@@ -188,7 +188,7 @@ window.songs = [
     duration: 193,
     url: "https://www.youtube.com/watch?v=cqP8I5aaud8",
     explicit: false,
-    imageUrl: "/src/images/download (17).jpeg",
+    imageUrl: "download (17).jpeg",
   },
   {
     songId: "SID-20",
@@ -198,7 +198,7 @@ window.songs = [
     duration: 256,
     url: "https://www.youtube.com/watch?v=VNs_cCtdbPc",
     explicit: false,
-    imageUrl: "/src/images/download (18).jpeg",
+    imageUrl: "download (18).jpeg",
   },
   {
     songId: "SID-21",
@@ -208,7 +208,7 @@ window.songs = [
     duration: 132,
     url: "https://www.youtube.com/watch?v=3ONzh3tf884",
     explicit: true,
-    imageUrl: "/src/images/download.jpeg",
+    imageUrl: "download.jpeg",
   },
   {
     songId: "SID-22",
@@ -218,6 +218,6 @@ window.songs = [
     duration: 165,
     url: "https://www.youtube.com/watch?v=IKeYqqZ1cFg",
     explicit: false,
-    imageUrl: "/src/images/download (5).jpeg",
+    imageUrl: "download (5).jpeg",
   },
 ];
