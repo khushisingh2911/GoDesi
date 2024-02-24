@@ -1,0 +1,129 @@
+.card {
+  
+  justify-content: center;
+  border: 2px solid #1c3e71; /* Change border color */
+  border-radius: 15px; /* Rounded edges */
+  overflow: hidden;
+  margin: 70px; /* Increased margin */
+  width: 260px; /* Adjusted width */
+  height: 400px;
+  border-radius: 100px 100px 100px 100px; 
+  
+}
+
+/* Adjusted image styles */
+.card img {
+  max-width: 100%;
+  height: 250px; /* Set a fixed height for consistency */
+  object-fit: cover; /* Maintain aspect ratio */
+  border-radius: 100px 100px 100px 100px; /* Rounded top edges */
+  width: 0 0 33.333%;
+  aspect-ratio: 3/2;
+  
+}
+
+/* Center-align the song name and year */
+.card h2,
+.card time {
+  text-align: center;
+  display: block; /* Make sure they are block elements to take up the full width */
+}
+
+/* Add a gap between the year and the duration */
+.card time {
+  margin-bottom: 10px; /* Adjust the gap as needed */
+}
+
+/* Center-align the duration */
+.card span {
+  text-align: center;
+  display: block; /* Make sure it's a block element to take up the full width */
+}
+
+
+#social-links li {
+  list-style: none; /* Remove default list styling */
+  margin: 5px 0;
+}
+
+#social-links li a {
+  text-decoration: none; /* Remove default anchor tag underline */
+  color: #000; /* Replace with your desired color */
+  font-size: 1.5em; /* Adjust size as needed */
+}
+
+#social-links li a i {
+  margin-right: 8px;
+}
+
+/* New hover effect for glow */
+.card:hover {
+  box-shadow: 0 0 15px 5px #395886; /* Glowing shadow effect */
+}
+body {
+  background-color: #c7daf7; /* Light grey background for the whole page */
+  color: #333; /* Dark text for contrast */
+  font-family: 'Playfair Display', serif; /* A clean, modern font */
+}
+
+.artist-button {
+  font-family: 'Playfair Display', serif;
+  background-color:  #395886; /* Pink background */
+  color: white; /* White text color */
+  border: 1px solid  #B4F8C8; /* Light pink border */
+  padding: 15px 30px; /* Increased padding for larger buttons */
+  margin: 6px 5%; /* Margin around the buttons */
+  border-radius: 5px; /* Slightly larger border radius for rounded edges */
+  font-size: 18px; /* Larger font size for button text */
+  cursor: pointer; /* Cursor changes to a pointer on hover */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.artist-button:hover {
+  box-shadow: 0 0 15px 5px #043f4b; /* Shadow effect on hover */
+}
+
+#selected-artist,#social-media-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%; /* Ensure full width to center content properly */
+}
+
+
+
+h1{
+  font-size: 50px;
+  
+}
+p{
+  font-size: 30px;
+ 
+}
+h2{
+  text-align: center;
+  font-size: 35px;
+  
+}
+/* New hover effect for glow */
+.card:hover {
+  box-shadow: 0 0 15px 10px #043f4b; /* Glowing shadow effect */
+  border: 1px solid  #B4F8C8;
+}
+#songs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers the cards in the container */
+  align-items: flex-start;
+  
+  gap: 15px; /* Adjust the gap to ensure proper spacing */
+}
+
+
+#menu {
+  display: flex;
+  justify-content: space-around; /* This will space out the buttons evenly */
+  padding: 0;
+  list-style-type: none; /* Assuming it's a list, remove bullet points */
+}
